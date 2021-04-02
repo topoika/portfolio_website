@@ -1,0 +1,9 @@
+[31-Mar-2021 19:31:05 UTC] PHP Warning:  Attempt to modify property 'response' of non-object in /home/wiilshop/wiilcrave.com/wp-content/plugins/elementor/elementor.php on line 32
+[01-Apr-2021 07:39:40 UTC] PHP Warning:  Attempt to modify property 'response' of non-object in /home/wiilshop/wiilcrave.com/wp-content/plugins/elementor/elementor.php on line 32
+[01-Apr-2021 19:31:51 UTC] PHP Warning:  Attempt to modify property 'response' of non-object in /home/wiilshop/wiilcrave.com/wp-content/plugins/elementor/elementor.php on line 32
+[02-Apr-2021 07:15:27 UTC] PHP Notice:  Undefined index: ts_portfolio_preview in /home/wiilshop/wiilcrave.com/wp-content/plugins/gallery-portfolio/index.php on line 233
+[02-Apr-2021 07:16:05 UTC] PHP Notice:  Undefined index: ts_portfolio_preview in /home/wiilshop/wiilcrave.com/wp-content/plugins/gallery-portfolio/index.php on line 233
+[02-Apr-2021 07:16:32 UTC] PHP Notice:  Undefined index: ts_portfolio_preview in /home/wiilshop/wiilcrave.com/wp-content/plugins/gallery-portfolio/index.php on line 233
+[02-Apr-2021 07:16:51 UTC] PHP Notice:  Undefined index: ts_portfolio_preview in /home/wiilshop/wiilcrave.com/wp-content/plugins/gallery-portfolio/index.php on line 233
+[02-Apr-2021 07:17:18 UTC] PHP Notice:  Undefined index: ts_portfolio_preview in /home/wiilshop/wiilcrave.com/wp-content/plugins/gallery-portfolio/index.php on line 233
+[02-Apr-2021 07:26:42 UTC] PHP Warning:  Attempt to modify property 'response' of non-object in /home/wiilshop/wiilcrave.com/wp-content/plugins/elementor/elementor.php on line 32
